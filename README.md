@@ -13,7 +13,7 @@ The Weather Report App is a powerful weather web application that provides real-
   <a href="https://the-weather-report-srijan-gulatis-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
-## The Weather Report App Screenshots
+## The Weather Report App Snapshots:-
 <img src="https://github.com/SrijanGulati36/The_Weather_Report/blob/main/assets/demo.png" />
 <img src="https://github.com/SrijanGulati36/The_Weather_Report/blob/main/assets/Demo1.png" />
 
