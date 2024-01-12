@@ -7,7 +7,7 @@ The Weather Report App with an Open Weather Api
 
 # Srijan The Weather Report App Screenshots
 <img src="https://github.com/SrijanGulati36/The_Weather_Report/blob/main/assets/demo.png" />
-<img src="" />
+<img src="https://github.com/SrijanGulati36/The_Weather_Report/blob/main/assets/Demo1.png" />
 
 
 
